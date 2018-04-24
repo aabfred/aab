@@ -1,0 +1,27 @@
+{
+  "name": "aab",
+  "version": "1.0.0",
+  "description": "a@b framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabfred/aab.git"
+  },
+  "keywords": [
+    "a@b",
+    "framework",
+    "h2",
+    "http2",
+    "web",
+    "webapp"
+  ],
+  "author": "Frédéric Declercq <frederic.declercq@aab.life>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aabfred/aab/issues"
+  },
+  "homepage": "https://github.com/aabfred/aab#readme"
+}
